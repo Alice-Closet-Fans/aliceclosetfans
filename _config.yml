@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Welcome to Alice Closet Fans!
 description: We're working on porting our Clothes Information Sheet to mobile, so please stay tuned. 
+
+integration_spreadsheet_key:2PACX-1vQArrq_XtOkuY0b0eRe3ecXIP4nZQ1txzpQ0RHWB-Z8lq0oag7BhmmS5v5W7qAkdtYiXTPo4QXKtRn0
+github_user: aliceclosetfans
+github_repo: aliceclosetfans
